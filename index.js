@@ -37,9 +37,10 @@ const questions = inquirer
     name: 'contributed',
 },
 {
-    type: 'input',
+    type: 'list',
     message: 'what is the licensed used?',
     name: 'license',
+    choices: ['MIT', 'Apache', 'GPL', 'BSD', 'None'],
 },
 {
     type: 'input',
