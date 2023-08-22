@@ -43,8 +43,8 @@ const questions = inquirer
 },
 {
     type: 'input',
-    message: 'what is the technologies used?',
-    name: 'tech',
+    message: 'what is your github?',
+    name: 'github',
 },
 ])
 
