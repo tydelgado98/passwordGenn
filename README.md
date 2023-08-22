@@ -4,12 +4,10 @@
 
 ## Description
 
-- Our motivation is to allow users to find certain items they desire go directly to the garage sale that selling that item. 
-- We wanted to supply the user with information and direct location to the garage sale.
-- We've wanted to make the GarageJunkies to combine both the front-end and back-end to implement the technoligies of back-end APIs and Front-end APIs, SQL, Express.js and Model-View-Controller.
+- 
 
 ## Preview   
-![homepage](https://raw.githubusercontent.com/unnamedmistress/GarageJunkies/main/public/photos/Homepage.png)
+![homepage]()
 
 
 ## LINK  
@@ -21,25 +19,23 @@ NPM Install  - uses inquirer
 
 ## Usage
 
-The Garage Junkie app can be used for creating a garage sale marketplace.
+
 
 ## Technologies Used
-* Google Maps Geocoding API
-* Sequilize
-* MySql
-* ORM
-* MVC
+* Inquirer
+
 
   
 ## Credits
 
-Chrysti Reichert, Ashlynn Wood, Jacob Studstill and Justin Delgado.
+Justin Delgado.
+
 
 ## License
 
 MIT License
 
-Copyright (c) [2023] [Chrysti Reichert,Ashlynn Wood, Justin Delgado and Jacob Studstill]
+Copyright (c) [2023] [Justin Delgado]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
