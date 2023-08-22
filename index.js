@@ -28,8 +28,23 @@ const questions = inquirer
 },
 {
     type: 'input',
-    message: 'what is your project title?',
-    name: 'title',
+    message: 'what is the technologies used?',
+    name: 'tech',
+},
+{
+    type: 'input',
+    message: 'who contributed?',
+    name: 'contributed',
+},
+{
+    type: 'input',
+    message: 'what is the licensed used?',
+    name: 'license',
+},
+{
+    type: 'input',
+    message: 'what is the technologies used?',
+    name: 'tech',
 },
 ])
 
