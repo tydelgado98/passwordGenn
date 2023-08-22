@@ -18,19 +18,20 @@ const questions = inquirer
 },
 {
     type: 'input',
-    message: 'what is your project title?',
-    name: 'title',
+    message: 'what is the installations?',
+    name: 'installations',
+},
+{
+    type: 'input',
+    message: 'what is your projects usage?',
+    name: 'usage',
 },
 {
     type: 'input',
     message: 'what is your project title?',
     name: 'title',
 },
-{
-    type: 'input',
-    message: 'what is your project title?',
-    name: 'title',
-},
+])
 
 // TODO: Create a function to write README file
 function writeToFile(generateMarkdown, data) {
