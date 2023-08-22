@@ -23,23 +23,23 @@ function generateMarkdown(data) {
   ## Installation
   - ${data.installations}
 
-  ## Description
-  - ${data.desription}
+  ## Usage
+  - ${data.usage}
 
-  ## Description
-  - ${data.desription}
+  ## Technologies Used
+  - ${data.tech}
 
-  ## Description
-  - ${data.desription}
+  ## Contributors
+  - ${data.contributed}
 
-  ## Description
-  - ${data.desription}
+  ## License
+  - ${data.license}
 
-  ## Description
-  - ${data.desription}
+  ## Github
+  - ${data.github}
 
-  ## Description
-  - ${data.desription}
+  ## Email
+  - ${data.email}
 ` ;
 }
 

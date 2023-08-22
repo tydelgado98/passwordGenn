@@ -1,6 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
+const { type } = require('os');
 
 
 const questions = inquirer
@@ -45,6 +46,11 @@ const questions = inquirer
     message: 'what is your github?',
     name: 'github',
 },
+{
+    type: 'input',
+    message: 'what is your email?',
+    name: 'email',
+}
 ])
 
 // TODO: Create a function to write README file
