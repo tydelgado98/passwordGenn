@@ -1,4 +1,4 @@
- https://img.shields.io/badge/License-MIT-yellow.svg
+ ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
   # Readme Generator
 
 
