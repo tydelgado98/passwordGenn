@@ -10,6 +10,9 @@ function renderLicenseLink(license) {
     case 'Apache':
       return 'https://opensource.org/licenses/Apache-2.0';
       break;
+    case 'MIT':
+      return 'https://opensource.org/licenses/MIT';
+      break;
   };
 }
 
