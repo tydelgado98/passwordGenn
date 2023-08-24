@@ -6,7 +6,10 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 function renderLicenseLink(license) {
-
+  switch (license)  {
+    case 'Apache':
+  
+  };
 }
 
 // TODO: Create a function that returns the license section of README
@@ -42,6 +45,7 @@ function generateMarkdown(data) {
 
   ## License
   - ${data.license}
+   
 
 
   ## Github
