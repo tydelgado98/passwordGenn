@@ -13,6 +13,9 @@ function renderLicenseLink(license) {
     case 'MIT':
       return 'https://opensource.org/licenses/MIT';
       break;
+    case 'GPL':
+      return 'https://opensource.org/licenses/gpl-license';
+      break;
   };
 }
 
