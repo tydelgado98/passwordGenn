@@ -8,6 +8,10 @@ function renderLicenseBadge(license) {
       return 'https://img.shields.io/badge/License-MIT-yellow.svg';
     case 'GPL':
       return 'https://img.shields.io/badge/License-GPLv3-blue.svg';
+    case 'BSD':
+      return 'https://img.shields.io/badge/License-BSD%203--Clause-blue.svg';
+      case 'None':
+        return '';
  }
 }
 
