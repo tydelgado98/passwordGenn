@@ -8,7 +8,8 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch (license)  {
     case 'Apache':
-  
+      return 'https://opensource.org/licenses/Apache-2.0';
+      break;
   };
 }
 
