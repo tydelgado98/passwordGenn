@@ -6,7 +6,7 @@
 
 
   ## Description
-  - undefined
+  - This Project allows users to create a simple but effective Readme
 
 
 
