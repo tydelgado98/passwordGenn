@@ -9,19 +9,14 @@ function renderLicenseLink(license) {
   switch (license)  {
     case 'Apache':
       return 'https://opensource.org/licenses/Apache-2.0';
-      break;
     case 'MIT':
       return 'https://opensource.org/licenses/MIT';
-      break;
     case 'GPL':
       return 'https://opensource.org/licenses/gpl-license';
-      break;
     case 'BSD':
       return 'https://opensource.org/licenses/BSD-3-Clause';
-      break;
     default:
       return 'None';
-      break;
   };
 }
 
