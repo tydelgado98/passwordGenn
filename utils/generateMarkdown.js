@@ -31,24 +31,32 @@ function generateMarkdown(data) {
 
 
   
+
+
   ## Description
   - ${data.desription}
+
+
 
 
   ## Installation
   - ${data.installations}
 
 
+
   ## Usage
   - ${data.usage}
+
 
 
   ## Technologies Used
   - ${data.tech}
 
 
+
   ## Contributors
   - ${data.contributed}
+
 
 
   ## License
@@ -61,6 +69,7 @@ function generateMarkdown(data) {
   - ${data.github}
 
 
+  
   ## Email
   - ${data.email}
 ` ;
