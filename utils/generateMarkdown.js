@@ -32,7 +32,7 @@ function renderLicenseLink(license) {
 }
 
 
-function renderLicenseSection(data, license) {
+function renderLicenseSection(data) {
   return `## License
   - ${data.license}
   - ${renderLicenseLink(data.license)}
@@ -49,7 +49,7 @@ function generateMarkdown(data) {
 
 
   ## Description
-  - ${data.desription}
+  - ${data.description}
 
 
 
@@ -88,4 +88,4 @@ function generateMarkdown(data) {
 ` ;
 }
 
-module.exports = generateMarkdown;
+module.exports = generateMarkdown, renderLicenseBadge, renderLicenseLink, renderLicenseSection;
