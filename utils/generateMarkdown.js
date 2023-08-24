@@ -3,13 +3,13 @@
 function renderLicenseBadge(license) {
  switch(license) {
     case 'Apache':
-      return 'https://img.shields.io/badge/License-Apache%202.0-blue.svg';
+      return '![Static Badge](https://img.shields.io/badge/:license-Apache-blue)';
     case 'MIT':
-      return 'https://img.shields.io/badge/License-MIT-yellow.svg';
+      return '![Static Badge](https://img.shields.io/badge/:license-MIT-green)';
     case 'GPL':
-      return 'https://img.shields.io/badge/License-GPLv3-blue.svg';
+      return '![Static Badge](https://img.shields.io/badge/:license-GPL-red)';
     case 'BSD':
-      return 'https://img.shields.io/badge/License-BSD%203--Clause-blue.svg';
+      return '![Static Badge](https://img.shields.io/badge/:license-BSD-yellow)';
       case 'None':
         return '';
  }
