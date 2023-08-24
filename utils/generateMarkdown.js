@@ -19,6 +19,9 @@ function renderLicenseLink(license) {
     case 'BSD':
       return 'https://opensource.org/licenses/BSD-3-Clause';
       break;
+    default:
+      return 'None';
+      break;
   };
 }
 
