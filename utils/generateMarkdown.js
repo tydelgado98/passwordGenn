@@ -24,6 +24,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(data) {
   return `## License
   - ${data.license}
+  - ${renderLicenseLink(data.license)}
   `;
 }
 
