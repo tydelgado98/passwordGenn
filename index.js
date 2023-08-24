@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
-const { type } = require('os');
+// const { type } = require('os');
 
 
 const questions = inquirer
