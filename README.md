@@ -1,35 +1,47 @@
-# yuiu
+ https://img.shields.io/badge/License-MIT-yellow.svg
+  # Readme Generator
 
 
   
+
+
   ## Description
   - undefined
 
 
+
+
   ## Installation
-  - gdfgfd
+  - Node and inquirer
+
 
 
   ## Usage
-  - dfggfd
+  - Generate a Clean Readme
+
 
 
   ## Technologies Used
-  - fdggfd
+  - Node Modules
+
 
 
   ## Contributors
-  - gfd
+  - Justin Tyler
+
 
 
   ## License
-  - MIT - https://opensource.org/licenses/MIT
+  - undefined
+  - None
+  
    
 
 
   ## Github
-  - gfdgfd
+  - tydelgado98
+
 
 
   ## Email
-  - gfdgfd
+  - delgadojustin100@gmail.com
