@@ -96,4 +96,4 @@ function generateMarkdown(data) {
 ` ;
 }
 
-module.exports = generateMarkdown, renderLicenseBadge, renderLicenseLink, renderLicenseSection;
+module.exports = generateMarkdown;
