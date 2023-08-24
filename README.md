@@ -32,8 +32,8 @@
 
 
   ## License
-  - undefined
-  - None
+  - MIT
+  - https://opensource.org/licenses/MIT
   
    
 
