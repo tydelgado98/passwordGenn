@@ -16,6 +16,9 @@ function renderLicenseLink(license) {
     case 'GPL':
       return 'https://opensource.org/licenses/gpl-license';
       break;
+    case 'BSD':
+      return 'https://opensource.org/licenses/BSD-3-Clause';
+      break;
   };
 }
 
