@@ -60,7 +60,7 @@ function writeToFile(generateMarkdown, data) {
     err ? console.log(err) : console.log('Success!'));
 }
 
-// TODO: Create a function to initialize app
+
 function init() {
     questions
     .then((data) => {
