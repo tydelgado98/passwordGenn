@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
 
 }
 
-// TODO: Create a function that returns the license link
+
 function renderLicenseLink(license) {
   switch (license)  {
     case 'Apache':
