@@ -52,7 +52,7 @@ function generateMarkdown(data) {
 
 
   ## License
-  - ${data.license}
+  - ${data.license} - ${renderLicenseLink(data.license)}
    
 
 

@@ -1,34 +1,35 @@
-# Readme Gen
+# justin
 
 
-
+  
   ## Description
   - undefined
 
 
   ## Installation
-  - node and inquirer
+  - delgado
 
 
   ## Usage
-  - To Generate a professional readme
+  - pop
 
 
   ## Technologies Used
-  - node and inquirer
+  - pop
 
 
   ## Contributors
-  - Justin Delgado
+  - 
 
 
   ## License
   - MIT
+   
 
 
   ## Github
-  - tydelgado98
+  - poppie
 
 
   ## Email
-  - delgadojustin100@yahoo.com
+  - poppie123
