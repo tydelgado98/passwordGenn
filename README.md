@@ -1,4 +1,4 @@
-  # Quiz Coding
+  # Rock Paper Scissors
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
   
@@ -10,8 +10,8 @@
 
 
   ## Description
-  - This quiz is a showing of your html,css,js knowledge
-  - This can be great as a fun game to beat previous highscores and can be used to learn
+  - This app allows you the user to face off against a ai in a game of rock paper scissors 
+  - This was made by making the choice random for the computer so it isn't cheating, it's a    fair game
 
   
 
@@ -20,7 +20,7 @@
   
 
   ## Installation
-  - No installations
+  - N/A
 
   
 
@@ -29,7 +29,7 @@
   
 
   ## Usage
-  - Just for Fun
+  - Just for fun
 
   
 
@@ -38,7 +38,7 @@
   
 
   ## Technologies Used
-  - JS Heavy, HTML, and css
+  - Css,HTML,and JS
 
   
 
