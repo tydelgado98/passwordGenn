@@ -1,8 +1,8 @@
-  # Readme Generator
+  # Quiz Coding
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
   
-<br />
+
   
 
   
@@ -10,38 +10,38 @@
 
 
   ## Description
-  - This Project allows users to create a simple but effective Readme
-
+  - This quiz is a showing of your html,css,js knowledge
+  - This can be great as a fun game to beat previous highscores and can be used to learn
 
   
-<br />
+
   
 
   
 
   ## Installation
-  - Node and inquirer
+  - No installations
 
   
-<br />
+
   
 
   
 
   ## Usage
-  - Generate a Clean Readme
+  - Just for Fun
 
   
-<br />
+
   
 
   
 
   ## Technologies Used
-  - Node Modules
+  - JS Heavy, HTML, and css
 
   
-<br />
+
   
 
   
@@ -49,7 +49,7 @@
   ## Contributors
   - Justin Tyler
 
-  <br />
+  
 
   
 
@@ -62,7 +62,7 @@
    
   
 
-  <br />
+  
 
   
 
@@ -71,9 +71,9 @@
 
   
 
-  <br />
+  
 
   
 
   ## Email
-  - delgadojustin100@gmail.com
+  - delgadojustin100@yahoo.com
