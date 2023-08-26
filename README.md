@@ -11,7 +11,7 @@
 
   ## Description
   - This app allows you the user to face off against a ai in a game of rock paper scissors 
-  - This was made by making the choice random for the computer so it isn't cheating, it's a    fair game
+  - This was made by making the choice random for the computer so it isn't cheating, it's a fair game
 
   
 
