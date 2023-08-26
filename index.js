@@ -18,6 +18,11 @@ const questions = inquirer
 },
 {
     type: 'input',
+    message: 'Anymore Else in the description?',
+    name: 'description2',
+},
+{
+    type: 'input',
     message: 'what is the installations?',
     name: 'installations',
 },
