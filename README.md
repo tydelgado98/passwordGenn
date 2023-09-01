@@ -1,4 +1,4 @@
-  # Rock Paper Scissors
+  # The Writer's Odyssey
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
   
@@ -10,8 +10,8 @@
 
 
   ## Description
-  - This app allows you the user to face off against a ai in a game of rock paper scissors 
-  - This was made by making the choice random for the computer so it isn't cheating, so it's a fair game
+  - This app allows users to make post and comment on code related news and ect..
+  - You can like there post and see all of your post history
 
   
 
@@ -20,7 +20,7 @@
   
 
   ## Installation
-  - N/A
+  - Python Flask 
 
   
 
@@ -29,7 +29,7 @@
   
 
   ## Usage
-  - Just for fun
+  - Post  links for coding related news
 
   
 
@@ -38,7 +38,7 @@
   
 
   ## Technologies Used
-  - Css,HTML,and JS
+  - Mongo, python, express, flask
 
   
 
@@ -47,7 +47,7 @@
   
 
   ## Contributors
-  - Justin Tyler
+  - Justin Delgado
 
   
 
