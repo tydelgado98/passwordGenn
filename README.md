@@ -1,4 +1,4 @@
-  # Scheduler
+  # Pythonic
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
   
@@ -10,8 +10,8 @@
 
 
   ## Description
-  - This allows you to make a plan throughout the day and it keeps track of the time whether its the past,present, or future
-  - It changes the background depending on the time
+  - This is a game that im making
+  - this is using pygame
 
   
 
@@ -20,7 +20,7 @@
   
 
   ## Installation
-  - N/A
+  - pygame, python
 
   
 
@@ -29,7 +29,7 @@
   
 
   ## Usage
-  - Day.js/ Jquery
+  - You can use this app to play a game that i created
 
   
 
@@ -38,7 +38,7 @@
   
 
   ## Technologies Used
-  - Day.js/ Jquery
+  - pygame and python
 
   
 
@@ -47,7 +47,7 @@
   
 
   ## Contributors
-  - Me
+  - Justin Tyler
 
   
 
