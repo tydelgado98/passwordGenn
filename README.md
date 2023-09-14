@@ -1,4 +1,4 @@
-  # The Writer's Odyssey
+  # Scheduler
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
   
@@ -10,8 +10,8 @@
 
 
   ## Description
-  - This app allows users to make post and comment on code related news and ect..
-  - You can like there post and see all of your post history
+  - This allows you to make a plan throughout the day and it keeps track of the time whether its the past,present, or future
+  - It changes the background depending on the time
 
   
 
@@ -20,7 +20,7 @@
   
 
   ## Installation
-  - Python Flask 
+  - N/A
 
   
 
@@ -29,7 +29,7 @@
   
 
   ## Usage
-  - Post  links for coding related news
+  - Day.js/ Jquery
 
   
 
@@ -38,7 +38,7 @@
   
 
   ## Technologies Used
-  - Mongo, python, express, flask
+  - Day.js/ Jquery
 
   
 
@@ -47,7 +47,7 @@
   
 
   ## Contributors
-  - Justin Delgado
+  - Me
 
   
 
